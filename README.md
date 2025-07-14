@@ -149,6 +149,6 @@ Once the user inputs a sentence, it is tokenized, tagged and then add to the NER
 
 ## Contact 
 
-For any feedback or queries, please reach out to prakharrathi25@gmail.com.
+For any feedback or queries, please reach out to aarnav.anand5@gmail.com
 
 Note: The project is only for education purposes, no plagiarism is intended.
