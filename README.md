@@ -4,11 +4,6 @@
 
 This is an application that automates the process of text analysis with a user friendly GUI. :iphone: It has been implemented using Python and deployed with the Streamlit package. Here's a look at the application page.
 
-<p style="align:center">
-    <img src="https://i.imgur.com/hoVozCc.jpg">
-</p>
-
-
 
 ### Text Analytics :bar_chart:
 
